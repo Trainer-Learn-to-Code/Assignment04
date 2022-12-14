@@ -7,3 +7,4 @@ public class Two{
 		System.out.println(a+b);
 	}
 }
+**********************Wrong*************************
